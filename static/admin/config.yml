@@ -1,0 +1,29 @@
+backend:
+  name: github
+  repo: alexjj/dfstories
+  branch: master
+
+publish_mode: editorial_workflow
+
+media_folder: "static/images/uploads"
+public_folder: "/images/uploads"
+
+collections:
+  - name: "post"
+    label: "Post"
+    folder: "content/post"
+    create: true
+    fields:
+      - {label: "Title", name: "title", widget: "string", tagname: "h1"}
+      - {label: "Body", name: "body", widget: "markdown"}
+      - {label: "Publish Date", name: "date", widget: "datetime"}
+      - {label: "Categories", name: "categories", widget: "list"}
+      - {label: "Cover", name: "cover", widget: "image"}
+      - {label: "Cover Caption", name: "cover_caption", widget: "string"}
+      - {label: "Cover Link", name: "cover_link", widget: "string", default: ""}
+      - {label: "Cover Title", name: "cover_title", widget: "string"}
+      - {label: "Cover Width", name: "cover_width", widget: "number", default: 640}
+      - {label: "Thumbnail", name: "thumbnail", widget: "image"}
+      - {label: "Description", name: "Description", widget: "text"}
+      - {label: "Excerpt", name: "excerpt", widget: "string"}
+      - {label: "Nocopy", name: "nocopy", widget: "boolean", default: false}
