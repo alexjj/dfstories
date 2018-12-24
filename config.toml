@@ -1,0 +1,11 @@
+baseURL = "https://df.alexjj.com/"
+languageCode = "en-us"
+title = "DF Stories"
+theme = "newsprint"
+author = "Urist Alex Johnstone"
+paginate = 5
+canonifyurls = true
+
+[params]
+
+subtitle = "For fun: dig greedily ⛏️"
