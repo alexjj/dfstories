@@ -5,7 +5,7 @@ categories:
   - setup
   - non-df
 cover: /images/uploads/gopher.png
-cover_caption: words
+cover_caption: Caption words
 cover_link: df.alexjj.com
 cover_title: Web stuffs
 cover_width: 640
