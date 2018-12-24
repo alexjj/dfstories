@@ -18,12 +18,12 @@ collections:
       - {label: "Body", name: "body", widget: "markdown"}
       - {label: "Publish Date", name: "date", widget: "datetime"}
       - {label: "Categories", name: "categories", widget: "list"}
-      - {label: "Cover", name: "cover", widget: "image"}
-      - {label: "Cover Caption", name: "cover_caption", widget: "string"}
-      - {label: "Cover Link", name: "cover_link", widget: "string", default: ""}
-      - {label: "Cover Title", name: "cover_title", widget: "string"}
-      - {label: "Cover Width", name: "cover_width", widget: "number", default: 640}
-      - {label: "Thumbnail", name: "thumbnail", widget: "image"}
-      - {label: "Description", name: "Description", widget: "text"}
-      - {label: "Excerpt", name: "excerpt", widget: "string"}
+      - {label: "Cover", name: "cover", widget: "image", required: false, hint: "Top image on post"}
+      - {label: "Cover Caption", name: "cover_caption", widget: "string", required: false}
+      - {label: "Cover Link", name: "cover_link", widget: "string", default: "", required: false, hint: "Could be URL to larger image"}
+      - {label: "Cover Title", name: "cover_title", widget: "string", required: false}
+      - {label: "Cover Width", name: "cover_width", widget: "number", default: 640, hint: "640 seems a good number"}
+      - {label: "Thumbnail", name: "thumbnail", widget: "image", required: false, hint: "Icon on home page"}
+      - {label: "Description", name: "Description", widget: "text", required: false, hint: "Doesn't seem to be used anywhere"}
+      - {label: "Excerpt", name: "excerpt", widget: "string", hint: "Text on home page, like byline"}
       - {label: "Nocopy", name: "nocopy", widget: "boolean", default: false}
