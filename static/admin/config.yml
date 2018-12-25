@@ -17,7 +17,7 @@ collections:
       - {label: "Title", name: "title", widget: "string", tagname: "h1"}
       - {label: "Body", name: "body", widget: "markdown"}
       - {label: "Publish Date", name: "date", widget: "datetime"}
-      - {label: "Categories", name: "categories", widget: "list"}
+      - {label: "Categories", name: "categories", widget: "list", required: false}
       - {label: "Cover", name: "cover", widget: "image", required: false, hint: "Top image on post"}
       - {label: "Cover Caption", name: "cover_caption", widget: "string", required: false}
       - {label: "Cover Link", name: "cover_link", widget: "string", default: "", required: false, hint: "Could be URL to larger image"}
