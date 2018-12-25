@@ -38,3 +38,21 @@ Everything seemed pretty normal until I met this man...
 In case you haven't met him before he can usually be seen dressed in battered copper armour and stinking of beer and urine since he is a little more hygienic than most of us.  Reg is his name and all he keeps speaking of is "_the Coming"_ and "_winds of war_".
 
 ... I put it down to that barrel of turned dwarven rum that we "_lost"_ last month...
+
+## White Rabbit
+
+![](/images/uploads/48066454532.png)
+
+… dear Armok!  Reg was right!
+
+… pools of blood…………….dead miners…. disintegrated bolts……..white rabbit(!)…
+
+…WHO LEFT THAT BOOZE OUTSIDE!!!!
+
+## 253: The year of the noble... retreat
+
+We have retreated inside the fortress.  The drawbridge is up and our booze and meat stockpiles are fully stocked. We are doing what we do best and digging in until the goblins leave and take their pointy sticks with them.
+
+We can all thank Mistermayor for this… 
+
+… three warhammers!  Pfft!
