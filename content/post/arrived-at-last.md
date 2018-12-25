@@ -1,6 +1,7 @@
 ---
 title: Arrived at Last
 date: 2013-04-07T08:23:00.000Z
+cover: ''
 cover_link: ''
 cover_width: 640
 excerpt: Urist the jammy
@@ -21,3 +22,13 @@ I wielded the hammer myself convinced that the stench of miasma was in the air. 
 ![](/images/uploads/47320960539_0.jpg)
 
 Alarth... not dead but making the finishing touches to his finest creation, which no thanks to my barging in has one fewer arms than perhaps an exquisite throne should have...
+
+## Child snatchers
+
+In the past few months our fortress has become plagued with child-snatchers.  Luckily on both occasions our hunter had been skiving and generally wasting time in the undergrowth, fired his crossbow with his eyes shut and killed both foul beasts.  
+
+![](/images/uploads/47352971127_0.jpg)
+
+… well in fact nowhere does it say he actually killed them in his hunting log.  I can only assume that as the goblin limped off our fearless defender went back to making daisy chains only for the attacker to die of pneumonia in the winter that was rolling in.
+
+Subsequently we did find the corpses of said child-snatchers (Urist McTriggerfinger probably tripped over one whilst trying to catch a Red Admiral).  Unfortunately we spent a number of months trying to collect their loot only to find that some witless hauler had organised for our main stockpile to only take from feeder stockpiles.  A snappy conversation with our bookkeeper sorted that one out.
