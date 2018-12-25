@@ -18,6 +18,7 @@ led us to a lovely hillside site and claimed it is time to start a fort.
 ## The Turkeys
 
 ![](/images/uploads/47305720151.png)
+
 A view of our main hall. Mostly occupied by turkeys…
 
 The booze supply is very small :/
