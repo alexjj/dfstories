@@ -39,7 +39,7 @@ We'll mine that later....turns out goblins had arrived at the surface and were a
 
 ![](/images/uploads/50105585951_7.png)
 
-ah...turns out the lever wasn\'t actually connected to anything...With 223 dwarves milling about the "no name, no blame" culture had set in pretty quick...
+ah...turns out the lever wasn't actually connected to anything...With 223 dwarves milling about the "no name, no blame" culture had set in pretty quick...
 
 Regardless, the anxious-to-stove-goblins-in-the-face military squads blasted out of the barracks and made some delicious spiced mince meat out of them:
 
