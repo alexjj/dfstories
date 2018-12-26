@@ -7,6 +7,7 @@ cover_link: ''
 cover_width: 640
 excerpt: Urist the Airhead
 nocopy: false
+thumbnail: /images/uploads/47308218906.png
 ---
 A fairly quiet first year was had at Holdstake.
 

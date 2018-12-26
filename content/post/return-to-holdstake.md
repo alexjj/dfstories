@@ -2,6 +2,7 @@
 title: Return to Holdstake
 date: 2013-04-08T02:36:00.000Z
 cover: /images/uploads/47385269875_7.png
+thumbnail: /images/uploads/47385269875_7.png
 cover_caption: This is fine
 cover_link: ''
 cover_width: 640
