@@ -7,6 +7,7 @@ cover: /images/uploads/embark.png
 cover_caption: Strike the earth!
 cover_link: ''
 cover_width: 640
+thumbnail: /images/uploads/embark.png
 excerpt: Urist the Bore
 nocopy: false
 ---
