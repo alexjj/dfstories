@@ -5,7 +5,7 @@ cover: ''
 cover_link: ''
 cover_width: 640
 excerpt: Urist the jammy
-thumbnail: '/images/upload/47320960539_0.jpg
+thumbnail: '/images/upload/47320960539_0.jpg'
 nocopy: false
 ---
 It was early in the month of Slate when I arrived at Holdstake. The previous ruler had outstayed his welcome; fueled by power (possibly) and booze (likely).
