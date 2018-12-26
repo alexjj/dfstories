@@ -3,6 +3,7 @@ title: 'A new land, possibly with  crabs'
 date: 2013-06-03T02:12:00.000Z
 cover_link: ''
 cover_width: 640
+thumbnail: /images/uploads/51985678533_1.jpg
 excerpt: Urist the Cromulent
 nocopy: false
 ---
@@ -43,3 +44,9 @@ the little ones, the military turned to the badgers and dealt the final blows. T
 ![](/images/uploads/51985678533_7.png)
 
 A GLORIOUS DAY!
+
+## Mind Block?
+
+![](/images/uploads/51975853652.png)
+
+Creativity gone? Mind block? You're not alone.
